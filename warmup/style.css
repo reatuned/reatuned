@@ -1,0 +1,33 @@
+body {
+    background-color: #1b1b32;
+}
+
+h1, h2, p, li {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+/*Set Background Colors*/
+.beginning {
+    width: 100%;
+    background-color: #3b3b4f;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.middle {
+    width: 100%;
+    background-color: #5757f0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ending {
+    width: 100%;
+    background-color: #51519e;
+    margin-left: auto;
+    margin-right: auto;
+}
