@@ -2,9 +2,9 @@
 - 👀 I’m interested in Video Game Production
 - 🌱 I’m currently learning HTML, CSS, and GML
 - 📫 How to reach me:
-  1. Discord: reatuned
-  2. Twitter: reatuned
-- 😄 Pronouns: They/Them
+  1. Discord: reatuned_official
+  2. Bluesky: reatuned.bsky.social
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: I want to be a Front end developer and a Indie game Dev
 
 <!---
